@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://astridduday3108.github.io/.github/coderunner">  
+<a href="https://avadukeenka4488.github.io/.github/coderunner">  
 <img src="https://img.shields.io/badge/GET_CodeRunner-darkgreen?style=for-the-badge&logo=apple" alt="GET CodeRunner">  
 </a>  
 </div>  
